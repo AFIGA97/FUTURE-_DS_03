@@ -66,8 +66,8 @@ This dashboard can be utilized to:
 ## 🙋‍♀️ Author
 
 **AFIGA BEGUM**
-📧 afiga97@gmail.com
-🌐 [www.linkedin.com/in/afigabegum]
+📧afiga97@gmail.com
+🌐[www.linkedin.com/in/afigabegum]
 
 ## 📣 Feedback
 
