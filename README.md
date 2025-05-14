@@ -25,6 +25,9 @@ The dashboard also includes the following visualizations:
 
 Here's a breakdown of the insights offered by each visualization:
 
+![1000015946](https://github.com/user-attachments/assets/8d8b3866-feae-4eca-bc65-053413003bf6)
+
+
 **🔢 Key Metric Tiles:**
 * Provide a high-level overview of the total casualties, accidents, and casualties by severity, along with the year-over-year percentage change. This allows for a quick assessment of the overall trend in road safety.
 
@@ -58,7 +61,7 @@ This dashboard can be utilized to:
 
 ## 🛠️ Tools Used
 
-* **Likely a Business Intelligence platform** ( Tableau, Power BI, Qlik Sense) was used to create this interactive dashboard.
+ * **Business Intelligence platform** ( Tableau, Power BI, Qlik Sense) was used to create this interactive dashboard.
 
 ## 🙋‍♀️ Author
 
